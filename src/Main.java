@@ -17,7 +17,7 @@ public class Main {
 
 	  /*勝ちの場合
 	  //あなた(PLAYER)：パー(2)(0) 　相手(CPU)
-	  			   	  チョキ(1)(2)
+	  			   	  チョキ(1)(2)    fdfsfsdfdsfsdffsf
 	  			   	    グー(0)(1) */
 
 
